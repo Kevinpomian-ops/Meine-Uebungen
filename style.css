@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    background-image: url(./assats/img/comming_soon.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    color: beige;
+    text-align: center;
+}
